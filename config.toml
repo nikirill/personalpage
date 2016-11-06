@@ -1,0 +1,124 @@
+baseurl = "https://nikirill.github.io/"
+title = "Kirill Nikitin"
+copyright = "&copy; 2016 Kirill Nikitin"
+languageCode = "en-us"
+theme = "hugo-academic"
+enableEmoji = true
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = "UA-86939483-1"
+
+
+[params]
+  name = "Kirill Nikitin"
+  role = "PhD student"
+  organization = "DeDiS, EPFL"
+  avatar = "portrait.jpg"
+  email = "[firstname][lastname]@epfl.ch"
+  address = "EPFL IC IINFCOM DEDIS, BC 263 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
+  #phone = "888 888 88 88"
+
+  # Enable Keybase in Contact section by entering your keybase.io username.
+  keybase = "nikirill"
+
+  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Sun, Nov 6, 2016"
+
+  # Enable global LaTeX math rendering?
+  #   If false, you can enable it locally on a per page basis.
+  math = false
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = []
+  custom_js  = []
+
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+#  [[params.social]]
+#    icon = "envelope"
+#    icon_pack = "fa"
+#    link = "mailto:kirill.nikitin@epfl.ch"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/_nikirill"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/nkirill"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.ch/citations?user=uDzGL3sAAAAJ&hl"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/nikirill"
+
+
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Home"
+  url = "#top"
+  weight = 1
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 2
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
+
+[[menu.main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 4
+
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
+
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 6
