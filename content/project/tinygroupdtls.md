@@ -1,6 +1,6 @@
 +++
 client_name = ""
-#date = "2016-04-27"
+date = "2016-11-06"
 image = ""
 image_preview = ""
 summary = "Lightweight DTLS implementation with the extension for secure group communication."
@@ -10,7 +10,7 @@ external_link = "https://github.com/nikirill/tinygroupdtls"
 
 +++
 
-This is an extension to TinyDTLS library by Olaf Bergmann shipped with Contiki OS.
+This is an extension to the TinyDTLS library by Olaf Bergmann shipped with Contiki OS.
 The version corresponds to the Instant Contiki 2.7 image.
 The purpose of the extension is to make it possible to secure multicast messages and
 unicast responses to these multicast messages.

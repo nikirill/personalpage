@@ -13,12 +13,8 @@ weight = 50
 
 +++
 
-I am a teaching instructor for the following courses at University X:
+I have supervised one master's semester project and served as a teaching assistant for the following courses at EPFL:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- [MATH-101(e)](http://edu.epfl.ch/coursebook/en/analysis-i-MATH-101-E): Analysis I (fall 2016)
+- [COM-102](http://edu.epfl.ch/coursebook/en/advanced-information-computation-communication-ii-COM-102):
+Advanced information, computation, communication II (spring 2016)
