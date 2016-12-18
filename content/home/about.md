@@ -24,13 +24,18 @@ weight = 0
 
 [[education.courses]]
   course = "Master of Science in Communication Systems"
-  institution = "KTH Royal Institute of Technology"
-  year = 2015
+  institution = "KTH Royal Institute of Technology, Stockholm"
+  year = "2013-2015"
 
 [[education.courses]]
   course = "Specialist Degree in Information Security"
-  institution = "Kazan (Volga Region) Federal University"
-  year = 2013
+  institution = "Kazan (Volga Region) Federal University, Kazan"
+  year = "2008-2013"
+  
+[[education.courses]]
+  course = "Exchange Student, Computer Science"
+  institution = "University of Helsinki, Helsinki"
+  year = "2012"
  
 +++
 

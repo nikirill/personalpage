@@ -15,7 +15,7 @@ weight = 40
 
 <i class="fa fa-trophy" aria-hidden="true"></i>
 <span>
-EDIC Fellowship for Doctoral Studies, EPFL (2015)
+EPFL Fellowship for Doctoral Studies (2015)
 <span/>
 
 <i class="fa fa-trophy" aria-hidden="true"></i>

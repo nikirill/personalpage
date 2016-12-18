@@ -1,5 +1,5 @@
-baseurl = "https://nikirill.github.io/"
-title = "Kirill Nikitin"
+baseurl = "https://nikirill.com/"
+title = "Kirill Nikitin's Personal Page"
 copyright = "&copy; 2016 Kirill Nikitin"
 languageCode = "en-us"
 theme = "hugo-academic"
@@ -59,10 +59,10 @@ googleAnalytics = "UA-86939483-1"
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-#  [[params.social]]
-#    icon = "envelope"
-#    icon_pack = "fa"
-#    link = "mailto:kirill.nikitin@epfl.ch"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:kirill.nikitin@epfl.ch"
 
   [[params.social]]
     icon = "twitter"
