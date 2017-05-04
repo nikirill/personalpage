@@ -18,7 +18,7 @@ googleAnalytics = "UA-86939483-1"
   organization = "DeDiS, EPFL"
   avatar = "portrait.jpg"
   email = "[firstname][lastname]@epfl.ch"
-  address = "EPFL IC IINFCOM DEDIS, BC 263 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
+  address = "EPFL IC IINFCOM DEDIS, BC 209 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
   #phone = "888 888 88 88"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -67,7 +67,7 @@ googleAnalytics = "UA-86939483-1"
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/_nikirill"
+    link = "//twitter.com/nikir1ll"
 
   [[params.social]]
     icon = "linkedin"

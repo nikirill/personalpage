@@ -7,7 +7,7 @@ draft = false
 widget = "about"
 
 # Order that this section will appear in.
-weight = 0
+weight = 10
 
 # List your academic interests.
 #[interests]
@@ -41,7 +41,7 @@ weight = 0
 
 # Bio
 
-Hi, I am a second-year PhD student in the [Decentralized/Distributed Systems lab](https://dedis.ch/) at
+Hi, I am a second-year PhD student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
 [Swiss Federal Institute of Technology in Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
 advised by Prof. [Bryan Ford](http://bford.info/).
 My research interests lie in the areas of System and Network Security, Cryptographic Protocols and Distributed Systems.

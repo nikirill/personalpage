@@ -11,17 +11,17 @@ abstract_short = ""
 url_code = ""
 url_dataset = ""
 url_video = ""
-publication_short = "To appear in ACM TECS'16"
-publication = """Accepted for publication in the *ACM Transactions on Embedded Computing Systems,
-Special Issue on Embedded Computing for Internet-of-Things (IoT)*, ACM."""
+publication_short = "ACM Transactions on Embedded Computing Systems, 16(3), 66, April 2017"
+publication = """*ACM Transactions on Embedded Computing Systems (TECS)*,
+Special issue on Embedded Computing for the Internet-of-Things (IoT), 16, 3, Article 66, 29 pages, ACM."""
 url_project = "project/tinygroupdtls/"
 authors = [
   "Marco Tiloca", "Kirill Nikitin", "Shahid Raza"
 ]
-url_pdf = ""
+url_pdf = "http://soda.swedishict.se/6122/1/axiom.pdf"
 selected = false
 image = ""
-date = "2016-11-11"
+date = "2017-04-01"
 title = "Axiom - DTLS-based secure IoT group communication"
 math = false
 url_slides = ""
