@@ -23,6 +23,11 @@ weight = 10
   title = "Education"
 
 [[education.courses]]
+  course = "Ph.D. in Computer Science"
+  institution = "Swiss Federal Institute of Technology, Lausanne (EPFL)"
+  year = "2015 - now"
+
+[[education.courses]]
   course = "Master of Science in Communication Systems"
   institution = "KTH Royal Institute of Technology, Stockholm"
   year = "2013-2015"
@@ -41,8 +46,8 @@ weight = 10
 
 # Bio
 
-Hi, I am a second-year PhD student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
-[Swiss Federal Institute of Technology in Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
+Hi, I am a second-year Ph.D. student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
+[Swiss Federal Institute of Technology, Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
 advised by Prof. [Bryan Ford](http://bford.info/).
 My research interests lie in the areas of System and Network Security, Cryptographic Protocols and Distributed Systems.
 I am currently focused on improving security of software update systems and building a secure peer-to-peer collaboration

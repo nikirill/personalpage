@@ -1,6 +1,6 @@
 baseurl = "https://nikirill.com/"
 title = "Kirill Nikitin's Personal Page"
-copyright = "&copy; 2016 Kirill Nikitin"
+copyright = "&copy; 2017 Kirill Nikitin"
 languageCode = "en-us"
 theme = "hugo-academic"
 enableEmoji = true
@@ -14,8 +14,8 @@ googleAnalytics = "UA-86939483-1"
 
 [params]
   name = "Kirill Nikitin"
-  role = "PhD student"
-  organization = "DeDiS, EPFL"
+  role = "Ph.D. student"
+  organization = "DEDIS, EPFL"
   avatar = "portrait.jpg"
   email = "[firstname][lastname]@epfl.ch"
   address = "EPFL IC IINFCOM DEDIS, BC 209 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
@@ -40,6 +40,21 @@ googleAnalytics = "UA-86939483-1"
   custom_css = []
   custom_js  = []
 
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
 
   # Social/Academic Networking
   #
@@ -122,3 +137,16 @@ googleAnalytics = "UA-86939483-1"
 #  name = "Contact"
 #  url = "#contact"
 #  weight = 6
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+# Languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
+
+# Configure the English version of the website.
+[languages.en]
+  languageCode = "en-us"
