@@ -18,7 +18,7 @@ url_project = "project/tinygroupdtls/"
 authors = [
   "Marco Tiloca", "Kirill Nikitin", "Shahid Raza"
 ]
-url_pdf = "http://soda.swedishict.se/6122/1/axiom.pdf"
+url_pdf = "https://dl.acm.org/authorize?N37129"
 selected = false
 image = ""
 date = "2017-04-01"
