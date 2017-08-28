@@ -8,7 +8,7 @@ and used it to experimentally evaluate performance of our approach on real IoT h
 Results show that Axiom is affordable on resource constrained platforms, and performs significantly better
 than related alternative approaches."""
 abstract_short = ""
-url_code = ""
+url_code = "https://github.com/nikirill/tinygroupdtls"
 url_dataset = ""
 url_video = ""
 publication_types = ["2"]
@@ -18,7 +18,6 @@ url_project = "project/tinygroupdtls/"
 authors = [
   "Marco Tiloca", "Kirill Nikitin", "Shahid Raza"
 ]
-code = "https://github.com/nikirill/tinygroupdtls"
 url_pdf = "https://dl.acm.org/authorize?N37129"
 selected = false
 image = ""
