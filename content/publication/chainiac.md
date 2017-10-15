@@ -27,9 +27,9 @@ title = "CHAINIAC: Proactive Software-Update Transparency via Collectively Signe
 url_code = "https://github.com/dedis/paper_chainiac"
 url_dataset = ""
 url_pdf = "https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf"
-url_project = ""
+url_project = "roject/chainiac/"
 url_slides = "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/nikitin"
-url_video = ""
+url_video = "https://youtu.be/xpT6L8htINU"
 
 [header]
   caption = ""

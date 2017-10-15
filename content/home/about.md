@@ -46,9 +46,9 @@ weight = 10
 
 # Bio
 
-Hi, I am a second-year Ph.D. student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
+Hi, I am a third-year Ph.D. student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
 [Swiss Federal Institute of Technology, Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
 advised by Prof. [Bryan Ford](http://bford.info/).
-My research interests lie in the areas of System and Network Security, Cryptographic Protocols and Distributed Systems.
-I am currently focused on improving security of software update systems and building a secure peer-to-peer collaboration
+My research interests revolve around the topics in System and Network Security, Cryptographic Protocols and Distributed Systems.
+I am currently focused on improving security and privacy of software-update systems, and building a secure peer-to-peer collaboration
 platform.
