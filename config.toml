@@ -17,7 +17,7 @@ googleAnalytics = "UA-86939483-1"
   role = "Ph.D. student"
   organization = "DEDIS, EPFL"
   avatar = "portrait.jpg"
-  email = "[firstname][lastname]@epfl.ch"
+  email = "[firstname].[lastname]@epfl.ch"
   address = "EPFL IC IINFCOM DEDIS, BC 209 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
   #phone = "888 888 88 88"
 
