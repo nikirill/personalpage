@@ -50,5 +50,5 @@ Hi, I am a third-year Ph.D. student in the [Decentralized/Distributed Systems la
 [Swiss Federal Institute of Technology, Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
 advised by Prof. [Bryan Ford](http://bford.info/).
 My research interests revolve around the topics in System and Network Security, Cryptographic Protocols and Distributed Systems.
-I am currently focused on improving security and privacy of software-update systems, and building a secure peer-to-peer collaboration
+I am currently focused on improving security of software-update systems, reducing metadata leakage from encrypted data formats, and building a secure peer-to-peer collaboration
 platform.

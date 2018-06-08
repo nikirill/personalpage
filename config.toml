@@ -1,6 +1,6 @@
 baseurl = "https://nikirill.com/"
 title = "Kirill Nikitin's Personal Page"
-copyright = "&copy; 2017 Kirill Nikitin"
+copyright = "&copy; 2018 Kirill Nikitin"
 languageCode = "en-us"
 theme = "hugo-academic"
 enableEmoji = true
@@ -53,7 +53,8 @@ googleAnalytics = "UA-86939483-1"
     'Work in progress',  # 3
     'Technical report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+    'Preprint', # 7
   ]
 
   # Social/Academic Networking
