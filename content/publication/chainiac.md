@@ -13,7 +13,7 @@ for the aggregate timeline. We further evaluate the framework using real-world d
 and show that it offers clients security comparable to verifying every single update themselves while consuming only 
 one-fifth of the bandwidth and having a minimal computational overhead."""
 abstract_short = ""
-authors = ["Kirill Nikitin", "Eleftherios Kokoris-Kogias", "Philipp Jovanovic", "Linus Gasser", 
+authors = ["**Kirill Nikitin**", "Eleftherios Kokoris-Kogias", "Philipp Jovanovic", "Linus Gasser", 
 "Nicolas Gailly", "Ismail Khoffi", "Justin Cappos", "Bryan Ford"]
 date = "2017-08-18"
 highlight = true

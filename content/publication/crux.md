@@ -11,7 +11,7 @@ Crux (from roughly 900ms to 1ms). We deployed on PlanetLab locality-preserving v
 cache, a Bamboo distributed hash table, and a Redis publish/subscribe. Our results indicate that Crux is effective 
 and applicable to a variety of existing distributed algorithms."""
 abstract_short = ""
-authors = ["Cristina Basescu", "Michael F. Nowlan", "Kirill Nikitin", "Jose M. Faleiro", "Bryan Ford"]
+authors = ["Cristina Basescu", "Michael F. Nowlan", "**Kirill Nikitin**", "Jose M. Faleiro", "Bryan Ford"]
 date = "2018-05-12"
 highlight = true
 image_preview = ""

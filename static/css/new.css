@@ -1,0 +1,241 @@
+/*************************************************
+ *  Hugo Academic: an academic theme for Hugo.
+ *  Designed by @GeorgeCushen.
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+/*************************************************
+ *  Core
+ **************************************************/
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.row:after,
+.row:before {
+  content: " ";
+  display: table;
+}
+
+html {
+  font-family: '{{ .Get "body_font" }}', sans-serif;
+  font-size: {{ .Get "font_size_small" }}px;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}
+@media screen and (min-width: 58em) {
+  html {
+    font-size: {{ .Get "font_size"}}px;
+  }
+}
+
+body {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: inherit;
+  color: inherit;
+  background-color: {{ .Get "background" }};
+  margin-top: 71px; /* Offset body content by navbar height. */
+  padding-top: 0;
+  counter-reset: captions;
+}
+@media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
+  body {
+    margin-top: 51px; /* Offset body content by navbar height. */
+  }
+}
+
+.max-width-640 {
+  max-width: 640px;
+}
+
+.margin-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-text {
+  text-align: center;
+}
+
+/* Body text */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Navigation bar text */
+.navbar-default {
+  font-family: '{{ .Get "nav_font" }}', sans-serif;
+  font-weight: 400;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: '{{ .Get "heading_font" }}', sans-serif;
+  font-weight: 400;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+  overflow-wrap: break-word; /* Ensures very long heading words do not overflow into content. */
+}
+h1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+h2 {
+  margin-top: 0.3rem;
+  font-size: 1.4rem;
+}
+h3 {
+  font-weight: 500;
+  margin-top: 0.3rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  font-weight: 700;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+
+
+/*************************************************
+ *  Home Sections
+ **************************************************/
+
+
+.home-section {
+background-color: {{ .Get "home_section_odd" }};
+padding: 30px 0 30px 0;
+animation: intro 0.3s both;
+animation-delay: 0.15s;
+}
+
+.home-section:first-of-type {
+  padding-top: 10px;
+}
+
+
+/*************************************************
+ *  Biography
+ **************************************************/
+
+#profile {
+  text-align: center;
+  padding: 30px 10px;
+  position: relative;
+}
+
+#profile .portrait {
+  background-image: url('../img/portrait.jpg');
+  width: 170px;
+  height: 240px;
+  margin: 0 auto;
+  border-radius: 15%;
+  background-size: cover;
+}
+
+#profile .portrait-title h2 {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #000000;
+  margin: 20px 0 10px 0;
+}
+
+#profile .portrait-title h3 {
+  font-size: 1.1rem;
+  font-weight: 300;
+  color: rgba(0,0,0, 0.54);
+  margin: 0px 0 10px 0;
+}
+
+#profile ul.network-icon {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+#profile .network-icon li {
+  margin-right: 15px;
+}
+
+.big-icon {
+  font-size: 1.6rem;
+}
+
+ul.ul-interests li {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li {
+  position: relative;
+  padding: 0px 15px 4px 0px;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.75rem;
+  color: rgba(0,0,0,0.6);
+}
+
+ul.ul-contact li {
+  font-size: 0.9rem;
+  margin-top: 10px;
+  margin-left: -3px;
+}
+
+/*************************************************
+ *  Publications
+ **************************************************/
+
+.pub-list-item .pub-authors {
+  line-height: normal;
+  font-style: normal;
+  font-size: 0.85rem;
+  /*color: #3170A5;*/
+  color: #000000;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.pub-list-item .pub-publication {
+  color: #090;
+  font-size: 0.9rem;
+}
+
+
+
+/*************************************************
+ *  Navigation Bar
+ **************************************************/
+
+.navbar-default {
+background: {{ .Get "menu_primary" }};
+box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
+background-color: rgb(242,242,242);
+}
+
+.navbar-header .navbar-brand {
+  font-size: 17px;
+  font-weight: 500;
+}
