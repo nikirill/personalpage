@@ -9,7 +9,7 @@ title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 6
 
 +++
 

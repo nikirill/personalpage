@@ -32,6 +32,7 @@
     {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}
 
     <h3>Conference papers</h3>
+    {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}
     {{ range first $page.Params.count $recent_pubs }}
       {{ if eq (index .Params.publication_types 0) "1" }}
         {{ if eq $page.Params.list_format 1 }}
@@ -49,6 +50,7 @@
     {{ end }}
 
     <h3>Journal articles</h3>
+    {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}
     {{ range first $page.Params.count $recent_pubs }}
       {{ if eq (index .Params.publication_types 0) "2" }}
         {{ if eq $page.Params.list_format 1 }}
@@ -66,6 +68,7 @@
     {{ end }}
 
     <h3>Preprints</h3>
+    {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}
     {{ range first $page.Params.count $recent_pubs }}
       {{ if eq (index .Params.publication_types 0) "7" }}
         {{ if eq $page.Params.list_format 1 }}

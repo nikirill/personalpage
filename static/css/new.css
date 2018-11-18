@@ -8,18 +8,6 @@
  *  Core
  **************************************************/
 
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
-}
-
-.row:after,
-.row:before {
-  content: " ";
-  display: table;
-}
-
 html {
   font-family: '{{ .Get "body_font" }}', sans-serif;
   font-size: {{ .Get "font_size_small" }}px;
@@ -40,6 +28,7 @@ body {
   background-color: {{ .Get "background" }};
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
+  padding-left: -100px;
   counter-reset: captions;
 }
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
@@ -71,14 +60,6 @@ p {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-}
-
-/* Navigation bar text */
-.navbar-default {
-  font-family: '{{ .Get "nav_font" }}', sans-serif;
-  font-weight: 400;
-  line-height: 1.25;
-  text-rendering: optimizeLegibility;
 }
 
 /* Headings */
@@ -141,7 +122,7 @@ animation-delay: 0.15s;
 
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
-  width: 170px;
+  width: 220px;
   height: 240px;
   margin: 0 auto;
   border-radius: 15%;
@@ -162,7 +143,7 @@ animation-delay: 0.15s;
   margin: 0px 0 10px 0;
 }
 
-#profile ul.network-icon {
+ul.network-icon {
   display: inline-flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -178,10 +159,6 @@ animation-delay: 0.15s;
 
 .big-icon {
   font-size: 1.6rem;
-}
-
-ul.ul-interests li {
-  font-size: 0.9rem;
 }
 
 ul.ul-edu li {
@@ -223,19 +200,31 @@ ul.ul-contact li {
   font-size: 0.9rem;
 }
 
+/*************************************************
+ * Talks
+ **************************************************/
 
+.talk-metadata {
+  color: #4b4f56;
+  font-size: 0.9rem;
+}
+
+.pub-list-item .name {
+  color: #090;
+  font-size: 0.9rem;
+}
 
 /*************************************************
  *  Navigation Bar
  **************************************************/
-
-.navbar-default {
-background: {{ .Get "menu_primary" }};
-box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
-background-color: rgb(242,242,242);
+.navbar-light {
+  background: {{ .Get "menu_primary" }};
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
+  background-color: rgb(242,242,242);
 }
 
-.navbar-header .navbar-brand {
-  font-size: 17px;
-  font-weight: 500;
+.navbar-light .navbar-brand {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: {{ .Get "menu_title" }};
 }

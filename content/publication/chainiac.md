@@ -31,9 +31,22 @@ url_project = "project/chainiac/"
 url_slides = "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/nikitin"
 url_video = "https://youtu.be/xpT6L8htINU"
 
-[header]
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
   caption = ""
-  image = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++
 

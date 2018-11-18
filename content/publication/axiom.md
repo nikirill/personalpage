@@ -20,10 +20,26 @@ authors = [
 ]
 url_pdf = "https://dl.acm.org/authorize?N37129"
 selected = false
-image = ""
 date = "2017-04-01"
 title = "Axiom - DTLS-based secure IoT group communication"
 math = false
 url_slides = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
 

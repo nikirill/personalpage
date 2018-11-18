@@ -9,13 +9,13 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 7
 
 +++
 
 I have supervised two master's theses, two master's and two bachelor's semester projects, and served as a teaching assistant for the following courses at EPFL:
 
-- [CS-438](http://edu.epfl.ch/coursebook/en/decentralized-systems-engineering-CS-438): Decentralized Systems Engineering (fall 2017)
+- [CS-438](http://edu.epfl.ch/coursebook/en/decentralized-systems-engineering-CS-438): Decentralized Systems Engineering (fall 2017, 2018)
 - [COM-402](http://edu.epfl.ch/coursebook/en/information-security-and-privacy-COM-402): Information Security and Privacy (spring 2017, 2018)
 - [MATH-101(e)](http://edu.epfl.ch/coursebook/en/analysis-i-MATH-101-E): Analysis I (fall 2016)
 - [COM-102](http://edu.epfl.ch/coursebook/en/advanced-information-computation-communication-ii-COM-102):

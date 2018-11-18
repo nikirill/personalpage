@@ -7,7 +7,7 @@ draft = false
 widget = "about"
 
 # Order that this section will appear in.
-weight = 10
+weight = 1
 
 # List your academic interests.
 #[interests]
@@ -46,9 +46,9 @@ weight = 10
 
 # Bio
 
-Hi, I am a third-year Ph.D. student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
-[Swiss Federal Institute of Technology, Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
-advised by Prof. [Bryan Ford](http://bford.info/).
-My research interests revolve around the topics in System and Network Security, Cryptographic Protocols and Distributed Systems.
+Hi, I am a fourth-year Ph.D. student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
+[École polytechnique fédérale de Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
+advised by Prof. [Bryan Ford](http://bford.info/), and a member of [IC3, The Initiative For CryptoCurrencies & Contracts](https://www.initc3.org/).
+My research interests revolve around the topics in System and Network Security, Privacy, Distributed Systems, and Smart Contracts.
 I am currently focused on improving security of software-update systems, reducing metadata leakage from encrypted data formats, and building a secure peer-to-peer collaboration
 platform.

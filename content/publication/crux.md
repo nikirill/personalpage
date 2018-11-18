@@ -23,14 +23,28 @@ selected = false
 title = "Crux: Locality-Preserving Distributed Services"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://arxiv.org/pdf/1405.0637.pdf"
+url_pdf = ""
+url_preprint = "https://arxiv.org/pdf/1405.0637.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
-[header]
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
   caption = ""
-  image = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++
 
