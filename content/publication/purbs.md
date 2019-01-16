@@ -7,7 +7,7 @@ authors = ["**Kirill Nikitin**, Ludovic Barman, Matthew Underwood, and Bryan For
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:1806.03160, June 2018"
+publication = "arXiv:1806.03160, January 2019"
 publication_short = ""
 
 # Abstract and optional shortened version.

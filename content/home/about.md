@@ -49,6 +49,6 @@ weight = 1
 Hi, I am a fourth-year Ph.D. student in the [Decentralized/Distributed Systems lab](https://dedis.epfl.ch/) at
 [École polytechnique fédérale de Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
 advised by Prof. [Bryan Ford](http://bford.info/), and a member of [IC3, The Initiative For CryptoCurrencies & Contracts](https://www.initc3.org/).
-My research interests revolve around the topics in System and Network Security, Privacy, Distributed Systems, and Smart Contracts.
+My research interests revolve around the topics in Systems and Network Security, Privacy, Distributed Systems, and Smart Contracts.
 I am currently focused on improving security of software-update systems, reducing metadata leakage from encrypted data formats, and building a secure peer-to-peer collaboration
 platform.
