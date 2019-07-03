@@ -13,11 +13,13 @@ weight = 7
 
 +++
 
-I have served on the Technical Program Committee of the following conferences and workshops:
+I have served on the Program Committee of the following conferences and workshops:
 
-- [ICBC 2019](http://icbc2019.ieee-icbc.org/committee/technical-program-committee/): IEEE International Conference on Blockchain and Cryptocurrency 2019
-- [CryBlock 2019](http://www.cryblock.org/committees.html): 2nd Workshop on Cryptocurrencies and Blockchains for Distributed Systems
+- [BlockSys 2019](https://sensysblockchain.github.io/): Workshop on Blockchain-enabled Networked Sensor Systems
+- [ICBC 2019](http://icbc2019.ieee-icbc.org/): IEEE International Conference on Blockchain and Cryptocurrency
+- [CryBlock 2019](http://www.cryblock.org/): Workshop on Cryptocurrencies and Blockchains for Distributed Systems
 
-I also sub-reviewed for:
+I also have been an external reviewer and sub-reviewed for:
 
+- [IEEE Transactions on Industrial Informatics 2019](http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)
 - [CCS'17](https://ccs2017.sigsac.org/): ACM Conf. on Computer and Communications Security 2017

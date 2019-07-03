@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"
-  email = "[firstname].[lastname]@epfl.ch"
+  email = "kirill.nikitin@epfl.ch"
   address = "EPFL IC IINFCOM DEDIS, BC 209 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
   #phone = "888 888 88 88"
 
@@ -186,7 +186,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/nikirill_"
+    link = "https://twitter.com/ni_kirill"
 
   [[params.social]]
     icon = "linkedin"

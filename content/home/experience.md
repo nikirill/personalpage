@@ -20,6 +20,13 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
+  company = "**Microsoft Research**"
+  company_url = ""
+  date_start = "2019-08-05"
+  location = "Cambridge, UK"
+  
+[[experience]]
+  title = "Research Intern"
   company = "Systems Security and Privacy Group, **Microsoft Research**"
   company_url = "https://www.microsoft.com/en-us/research/group/security-and-privacy-research-group-redmond/"
   location = "Redmond, US"

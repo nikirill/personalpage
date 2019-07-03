@@ -1,32 +1,31 @@
 +++
 title = "Reducing Metadata Leakage from Encrypted Files and Communication with PURBs"
-date = 2018-06-08
+date = 2019-07-03
 draft = false
 
-authors = ["**Kirill Nikitin**, Ludovic Barman, Matthew Underwood, and Bryan Ford"]
-publication_types = ["7"]
+authors = ["**Kirill Nikitin**, Ludovic Barman, Wouter Lueks, Matthew Underwood, Jean-Pierre Hubaux and Bryan Ford"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:1806.03160, January 2019"
+publication = "Privacy Enhancing Technologies Symposium, July 2019"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = """Most encrypted data formats, such as PGP, leak substantial metadata in their plaintext headers, 
-such as format version, encryption schemes used, the number of recipients who can decrypt the data, 
-and even the identities of those recipients. This leakage can pose security and privacy risks, e.g., 
-by revealing the full membership of a group of collaborators from a single encrypted E-mail between two of them, 
-or enabling an eavesdropper to fingerprint the precise encryption software version and configuration the sender 
-used and to facilitate targeted attacks against specific endpoint software weaknesses. We propose to improve 
-security and privacy hygiene by designing future encrypted data formats such that no one without a relevant 
-decryption key learns anything at all from a ciphertext apart from its length - and learns as little as possible 
-even from that. To achieve this goal we present Padded Uniform Random Blobs or PURBs, an encrypted format 
-functionally similar to PGP but strongly minimizing a ciphertext's leakage via metadata or length. 
-A PURB is indistinguishable from a uniform random bit-string to an observer without a decryption key. 
-Legitimate recipients can efficiently decrypt the PURB even when it is encrypted for any number of 
-recipients' public keys and/or passwords, and when those public keys are of different cryptographic schemes. 
-PURBs use a novel padding scheme to reduce potential information leakage via the ciphertext's length _L_ to 
-the asymptotic minimum of _O(log(log(L)))_ bits, comparable to padding to a power of two, but with much lower 
-padding overhead of at most 12% which decreases further with large payloads."""
+abstract = """Most encrypted data formats leak metadata via their plaintext headers, such as format version, encryption
+              schemes used, number of recipients who can decrypt the data, and even the recipients’ identities. This 
+              leakage can pose security and privacy risks to users, e.g., by revealing the full membership of a group of 
+              collaboators from a single encrypted e-mail, or by enabling an eavesdropper to fingerprint the precise 
+              encryption software version and configuration the sender used.
+              We propose that future encrypted data formats improve security and privacy hygiene by producing Padded 
+              Uniform Random Blobs or _PURBs_: ciphertexts indistinguishable from random bit strings to anyone without a 
+              decryption key. A PURB’s content leaks nothing at all, even the application that created it, and is padded 
+              such that even its length leaks as little as possible. Encoding and decoding ciphertexts with no cleartext 
+              markers presents efficiency challenges, however. We present cryptographically agile encodings enabling 
+              legitimate recipients to decrypt a PURB efficiently, even when encrypted for any number of recipients’ 
+              public keys and/or passwords, and when these public keys are from different cryptographic suites. PURBs 
+              employ Padmé, a novel padding scheme that limits information leakage via ciphertexts of maximum length _M_
+               to a practical optimum of _O(loglog M)_ bits, comparable to padding to a power of two, but with lower 
+               overhead of at most 12% and decreasing with larger payloads."""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -38,7 +37,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/abs/1806.03160"
-url_code = "https://github.com/dedis/paper_purbs"
+url_code = "https://github.com/dedis/purb"
 url_dataset = ""
 url_project = ""
 url_slides = ""

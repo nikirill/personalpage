@@ -13,8 +13,8 @@ weight = 1
 #[interests]
 #  title = "Contact"
 #  interests = [
-#    "System and Network Security",
-#    "Cryptography",
+#    "Systems and Network Security",
+#    "Privacy",
 #    "Distributed Systems"
 #  ]
 
@@ -24,7 +24,7 @@ weight = 1
 
 [[education.courses]]
   course = "Ph.D. in Computer Science"
-  institution = "Swiss Federal Institute of Technology, Lausanne (EPFL)"
+  institution = "École polytechnique fédérale de Lausanne (EPFL)"
   year = "2015 - now"
 
 [[education.courses]]
@@ -50,5 +50,5 @@ Hi, I am a fourth-year Ph.D. student in the [Decentralized/Distributed Systems l
 [École polytechnique fédérale de Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
 advised by Prof. [Bryan Ford](http://bford.info/), and a member of [IC3, The Initiative For CryptoCurrencies & Contracts](https://www.initc3.org/).
 My research interests revolve around the topics in Systems and Network Security, Privacy, Distributed Systems, and Smart Contracts.
-I am currently focused on improving security of software-update systems, reducing metadata leakage from encrypted data formats, and building a secure peer-to-peer collaboration
+I am currently focused on reducing metadata leakage from encrypted data formats, improving security of software-update systems, and building a secure peer-to-peer collaboration
 platform.
