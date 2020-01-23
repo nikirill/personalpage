@@ -1,11 +1,8 @@
 +++
 date = "2016-11-06"
-summary = """Lightweight DTLS implementation with the extension for secure group communication. 
-This is an extension to the TinyDTLS library by Olaf Bergmann shipped with Contiki OS. 
-The version corresponds to the Instant Contiki 2.7 image.
-The purpose of the extension is to make it possible to secure multicast messages and unicast 
-responses to these multicast messages."""
-tags = []
+summary = """Lightweight DTLS implementation for the Contiki OS (TinyDTLS) with an extension for secure group communication. 
+Our extension enables securing multicast messages and their corresponding unicast responses."""
+tags = ["IoT"]
 title = "tinygroupdtls"
 external_link = "https://github.com/nikirill/tinygroupdtls"
 

@@ -20,10 +20,13 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "**Microsoft Research**"
-  company_url = ""
+  company = "Confidential Computing Group, **Microsoft Research**"
+  company_url = "https://www.microsoft.com/en-us/research/theme/confidential-computing/"
   date_start = "2019-08-05"
+  date_end = "2019-10-25"
   location = "Cambridge, UK"
+  description = """Information-flow control in smart contracts. 
+  Advisor: [Santiago Zanella-Beguelin](https://www.microsoft.com/en-us/research/people/santiago/)."""
   
 [[experience]]
   title = "Research Intern"
@@ -32,7 +35,8 @@ date_format = "January 2006"
   location = "Redmond, US"
   date_start = "2018-08-06"
   date_end = "2018-11-09"
-  description = """Project on improving scalability and privacy of smart contracts via off-chain execution."""
+  description = """Improving scalability of replicated state machines and, in particular, smart contracts in Ethereum 
+  using verifiable computation. Advisor: [Srinath Setty](http://srinathsetty.net/)."""
 
 [[experience]]
   title = "External Master's Thesis "
@@ -41,7 +45,8 @@ date_format = "January 2006"
   location = "Stockholm, Sweden"
   date_start = "2015-01-20"
   date_end = "2015-06-30"
-  description = """Work on securing group communication in the Internet-of-Things. [Paper](/publication/axiom/)."""
+  description = """Securing group communication in the Internet-of-Things.
+  Advisors: [Marco Tiloca](https://www.ri.se/en/marco-tiloca) and [Shahid Raza](https://www.ri.se/en/shahid-raza)."""
 
 [[experience]]
   title = "Research Intern"
@@ -50,6 +55,7 @@ date_format = "January 2006"
   location = "Lausanne, Switzerland"
   date_start = "2014-06-02"
   date_end = "2014-08-22"
-  description = """Work on integer factorization and weaknesses of the public-key ecosystem."""
+  description = """Integer factorization and analysis of public-key ecosystem weaknesses. 
+  Advisor: [Arjen Lenstra](https://people.epfl.ch/arjen.lenstra)."""
 
 +++

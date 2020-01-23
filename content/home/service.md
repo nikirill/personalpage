@@ -19,7 +19,7 @@ I have served on the Program Committee of the following conferences and workshop
 - [ICBC 2019](http://icbc2019.ieee-icbc.org/): IEEE International Conference on Blockchain and Cryptocurrency
 - [CryBlock 2019](http://www.cryblock.org/): Workshop on Cryptocurrencies and Blockchains for Distributed Systems
 
-I also have been an external reviewer and sub-reviewed for:
+I also have been an external reviewer and a sub-reviewer for:
 
 - [IEEE Transactions on Industrial Informatics 2019](http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)
 - [CCS'17](https://ccs2017.sigsac.org/): ACM Conf. on Computer and Communications Security 2017

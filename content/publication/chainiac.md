@@ -19,16 +19,17 @@ date = "2017-08-18"
 highlight = true
 image_preview = ""
 math = false
-publication = "USENIX Security Symposium, August 2017"
+publication = "*USENIX Security Symposium*, August 2017"
 publication_short = ""
 publication_types = ["1"]
 selected = false
-title = "CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds"
+title = "CHAINIAC: Proactive software-update transparency via collectively signed skipchains and verified builds"
 url_code = "https://github.com/dedis/paper_chainiac"
 url_dataset = ""
+url_preprint = "../files/chainiac-preprint.pdf"
 url_pdf = "https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf"
 url_project = "project/chainiac/"
-url_slides = "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/nikitin"
+url_slides = "../files/chainiac-usenix-slides.pdf"
 url_video = "https://youtu.be/xpT6L8htINU"
 
 # Custom links (optional).

@@ -1,5 +1,5 @@
 +++
-title = "Reducing Metadata Leakage from Encrypted Files and Communication with PURBs"
+title = "Reducing metadata leakage from encrypted files and communication with PURBs"
 date = 2019-07-03
 draft = false
 
@@ -7,7 +7,7 @@ authors = ["**Kirill Nikitin**, Ludovic Barman, Wouter Lueks, Matthew Underwood,
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Privacy Enhancing Technologies Symposium, July 2019"
+publication = "*Privacy Enhancing Technologies Symposium*, July 2019"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -35,19 +35,20 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1806.03160"
+url_pdf = "https://www.degruyter.com/view/j/popets.2019.2019.issue-4/popets-2019-0056/popets-2019-0056.pdf"
+url_preprint = "../files/purbs-preprint.pdf"
 url_code = "https://github.com/dedis/purb"
 url_dataset = ""
 url_project = ""
-url_slides = ""
-url_video = ""
+url_slides = "../files/purbs-pets19-slides.pdf"
+url_video = "https://portal.klewel.com/watch/webcast/epfl-ic-research-day-2019/talk/m6d3i9emGfW988yibcPQGW/"
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Press Coverage", url = "https://www.zdnet.com/article/plugging-leaks-in-pgp-encryption/"}, 
+{name = "Real-World Use", url = "https://docs.sequoia-pgp.org/sequoia_openpgp/serialize/padding/index.html"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

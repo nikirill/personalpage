@@ -28,7 +28,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["chainiac.md"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -36,7 +36,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://www.usenix.org/sites/default/files/conference/protected-files/usenixsecurity17_slides_nikitin.pdf"
+url_slides = "../files/chainiac-usenix-slides.pdf"
 url_video = "https://youtu.be/xpT6L8htINU"
 url_code = ""
 
