@@ -18,8 +18,8 @@ url_project = "project/tinygroupdtls/"
 authors = [
   "Marco Tiloca", "**Kirill Nikitin**", "Shahid Raza"
 ]
-url_pdf = "https://dl.acm.org/authorize?N37129"
-url_preprint = "../files/axiom-preprint.pdf"
+# url_pdf = "https://dl.acm.org/authorize?N37129"
+url_pdf = "../files/axiom.pdf"
 selected = false
 date = "2017-04-01"
 title = "Axiom - DTLS-based secure IoT group communication"

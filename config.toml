@@ -1,6 +1,6 @@
 baseurl = "https://nikirill.com/"
 title = "Kirill Nikitin's Personal Page"
-copyright = "&copy; 2018 Kirill Nikitin"
+copyright = "&copy; 2020 Kirill Nikitin"
 
 theme = "academic"
 enableEmoji = true
@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"
   email = "kirill.nikitin@epfl.ch"
-  address = "EPFL IC IINFCOM DEDIS, BC 209 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
+  address = "EPFL IC IINFCOM DEDIS, BC 263 (Bâtiment BC), Station 14, CH-1015 Lausanne, Switzerland"
   #phone = "888 888 88 88"
 
   # Enable Keybase in Contact section by entering your keybase.io username.

@@ -10,12 +10,23 @@ authors = ["Jonathan Lee", "**Kirill Nikitin**", "Srinath Setty"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear at *IEEE Symposium on Security and Privacy*, May 2020"
+publication = "To appear in the *IEEE Symposium on Security and Privacy*, May 2020"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = """This paper introduces a new approach to reduce end-to-end costs in large-scale replicated systems built 
+under a Byzantine fault model. Specifically, our approach transforms a given replicated state machine (RSM) 
+to another RSM where nodes incur lower costs by _delegating_ state machine execution: an untrusted prover 
+produces succinct cryptographic proofs of correct state transitions along with state changes, which nodes in 
+the transformed RSM verify and apply respectively.
+
+To realize our approach, we build _Piperine_, a system that makes the proof machinery profitable in the context 
+of RSMs. Specifically, Piperine reduces the costs of both proving and verifying the correctness of state machine execution 
+while retaining liveness---a distinctive requirement in the context of RSMs. Our experimental evaluation demonstrates that, 
+for a payment service, employing Piperine is more profitable than naive reexecution of transactions as long as 
+there are $> 10^4$ nodes. When we apply Piperine to ERC-20 transactions in Ethereum (a real-world RSM with up to $10^5$ 
+nodes), it reduces per-transaction costs by 5.4x and network costs by 2.7x."""
+abstract_short = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -33,7 +44,7 @@ projects = [""]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "../files/piperine.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -63,5 +74,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

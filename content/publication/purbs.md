@@ -4,10 +4,10 @@ date = 2019-07-03
 draft = false
 
 authors = ["**Kirill Nikitin**, Ludovic Barman, Wouter Lueks, Matthew Underwood, Jean-Pierre Hubaux and Bryan Ford"]
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Privacy Enhancing Technologies Symposium*, July 2019"
+publication = "*Proceedings on Privacy Enhancing Technologies*, Vol. 2019, No. 4, July 2019"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -35,8 +35,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.degruyter.com/view/j/popets.2019.2019.issue-4/popets-2019-0056/popets-2019-0056.pdf"
-url_preprint = "../files/purbs-preprint.pdf"
+# url_preprint = "https://www.degruyter.com/view/j/popets.2019.2019.issue-4/popets-2019-0056/popets-2019-0056.pdf"
+url_pdf = "../files/purbs.pdf"
 url_code = "https://github.com/dedis/purb"
 url_dataset = ""
 url_project = ""

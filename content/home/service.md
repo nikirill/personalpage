@@ -15,9 +15,9 @@ weight = 7
 
 I have served on the Program Committee of the following conferences and workshops:
 
+- [CryBlock 2020, 2019](http://www.cryblock.org/): Workshop on Cryptocurrencies and Blockchains for Distributed Systems
 - [BlockSys 2019](https://sensysblockchain.github.io/): Workshop on Blockchain-enabled Networked Sensor Systems
 - [ICBC 2019](http://icbc2019.ieee-icbc.org/): IEEE International Conference on Blockchain and Cryptocurrency
-- [CryBlock 2019](http://www.cryblock.org/): Workshop on Cryptocurrencies and Blockchains for Distributed Systems
 
 I also have been an external reviewer and a sub-reviewer for:
 
