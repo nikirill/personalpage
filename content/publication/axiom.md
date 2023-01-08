@@ -31,7 +31,7 @@ url_slides = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1145/3047413"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

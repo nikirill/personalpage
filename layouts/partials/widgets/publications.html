@@ -67,7 +67,7 @@
       {{ end }}
     {{ end }}
 
-    <h3>Preprints</h3>
+    <h3>Manuscripts</h3>
     {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}
     {{ range first $page.Params.count $recent_pubs }}
       {{ if eq (index .Params.publication_types 0) "7" }}

@@ -13,9 +13,9 @@ weight = 1
 #[interests]
 #  title = "Contact"
 #  interests = [
-#    "Systems and Network Security",
 #    "Privacy",
-#    "Distributed Systems"
+#    "Systems and Network Security",
+#    "Blockchain"
 #  ]
 
 # List your qualifications (such as academic degrees).
@@ -25,7 +25,7 @@ weight = 1
 [[education.courses]]
   course = "Ph.D. in Computer Science"
   institution = "École polytechnique fédérale de Lausanne (EPFL)"
-  year = "2015 - now"
+  year = "2015-2021"
 
 [[education.courses]]
   course = "Master of Science in Communication Systems"
@@ -33,7 +33,7 @@ weight = 1
   year = "2013-2015"
 
 [[education.courses]]
-  course = "Specialist Degree in Information Security"
+  course = "Diploma in Information Security"
   institution = "Kazan (Volga Region) Federal University, Kazan"
   year = "2008-2013"
   
@@ -44,11 +44,12 @@ weight = 1
  
 +++
 
-# Bio
+# About
 
-Hi, I am a fifth-year Ph.D. student in the [Decentralized and Distributed Systems lab](https://dedis.epfl.ch/) at
-[École polytechnique fédérale de Lausanne (EPFL)](http://www.epfl.ch/index.en.html)
-advised by Prof. [Bryan Ford](http://bford.info/), and a member of [IC3, The Initiative For CryptoCurrencies & Contracts](https://www.initc3.org/).
-My research interests revolve around the topics in Privacy, Computer and Network Security, Distributed Systems, and Blockchain Smart Contracts.
+Hi, I am a postdoctoral researcher at Cornell Tech working with Prof. [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/). 
+Previously, I completed my PhD in Computer Science at [EPFL](http://www.epfl.ch/index.en.html) where I was advised by
+Prof. [Bryan Ford](http://bford.info/) and was a member of [IC3, The Initiative For CryptoCurrencies & Contracts](https://www.initc3.org/).
+My research interests revolve around topics in Privacy, Anonymity, Computer and Network Security, and Smart Contracts.
 I am currently focused on reducing metadata leakage from encrypted data formats and protocols for secure communication, 
-improving security of software-update systems, and scaling and securing smart contracts.
+building robust systems for private information retrieval, improving security of software-update systems, 
+and scaling and securing smart contracts.

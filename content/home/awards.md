@@ -10,8 +10,13 @@ subtitle = ""
 
 # Order that this section will appear in.
 weight = 8
-
 +++
+
+<i class="fa fa-trophy" aria-hidden="true"></i>
+<span>
+[The Doc.Mobility Fellowship](http://www.snf.ch/en/funding/careers/doc-mobility/Pages/default.aspx#) 
+from the Swiss National Science Foundation (2020) (declined)
+<span/>
 
 <i class="fa fa-trophy" aria-hidden="true"></i>
 <span>

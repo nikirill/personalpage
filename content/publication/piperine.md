@@ -10,7 +10,7 @@ authors = ["Jonathan Lee", "**Kirill Nikitin**", "Srinath Setty"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in the *IEEE Symposium on Security and Privacy*, May 2020"
+publication = "*IEEE Symposium on Security and Privacy*, May 2020"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/cGJBzi1wSz0"
 url_poster = ""
 url_source = ""
 
@@ -59,7 +59,7 @@ url_source = ""
 url_custom = []
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/SP40000.2020.00068"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

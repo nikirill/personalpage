@@ -48,7 +48,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Press Coverage", url = "https://www.zdnet.com/article/plugging-leaks-in-pgp-encryption/"}, 
-{name = "Real-World Use", url = "https://docs.sequoia-pgp.org/sequoia_openpgp/serialize/padding/index.html"}]
+{name = "Real-World Use", url = "https://docs.sequoia-pgp.org/sequoia_openpgp/serialize/stream/padding/fn.padme.html"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -61,7 +61,7 @@ highlight = true
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.2478/popets-2019-0056"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

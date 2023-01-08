@@ -19,6 +19,16 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+title = "Postdoctoral Associate"
+company = "Cornell Tech, **Cornell University**"
+company_url = "https://www.tech.cornell.edu/"
+date_start = "2022-03-01"
+date_end = ""
+location = "New York, US"
+description = """Metadata-hiding communication.
+Advisor: [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/)."""
+
+[[experience]]
   title = "Research Intern"
   company = "Confidential Computing Group, **Microsoft Research**"
   company_url = "https://www.microsoft.com/en-us/research/theme/confidential-computing/"
