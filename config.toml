@@ -36,12 +36,12 @@ defaultContentLanguageInSubdir = false
   role = "Postdoctoral researcher"
   # Organizations/Affiliations.
   # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Cornell Tech, Cornell University", url = "" } ]
+  organizations = [ { name = "Cornell University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"
   email = "kirill@cornell.edu"
-  address = "2 West Loop Road, New York, NY 10044, United States"
+  address = "Cornell Tech, 2 West Loop Road, New York, NY 10044, United States"
   #phone = "888 888 88 88"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -239,25 +239,25 @@ defaultContentLanguageInSubdir = false
   url = "#experience"
   weight = 4
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 5
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 5
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 6
+  weight = 5
 
 [[menu.main]]
   name = "Service"
   url = "#service"
-  weight = 7
+  weight = 6
 
 [[menu.main]]
   name = "Awards"
   url = "#awards"
-  weight = 8
+  weight = 7
 
 #[[menu.main]]
 #  name = "Posts"

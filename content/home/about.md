@@ -50,6 +50,6 @@ Hi, I am a postdoctoral researcher at Cornell Tech working with Prof. [Vitaly Sh
 Previously, I completed my PhD in Computer Science at [EPFL](http://www.epfl.ch/index.en.html) where I was advised by
 Prof. [Bryan Ford](http://bford.info/) and was a member of [IC3, The Initiative For CryptoCurrencies & Contracts](https://www.initc3.org/).
 My research interests revolve around topics in Privacy, Anonymity, Computer and Network Security, and Smart Contracts.
-I am currently focused on reducing metadata leakage from encrypted data formats and protocols for secure communication, 
-building robust systems for private information retrieval, improving security of software-update systems, 
-and scaling and securing smart contracts.
+I am currently focused on reducing metadata leakage from protocols for secure communication and encrypted-data formats.
+My other work include building robust systems for private information retrieval, improving security of 
+software-update systems, and scaling and securing smart contracts.
