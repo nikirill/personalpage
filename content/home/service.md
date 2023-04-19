@@ -15,6 +15,7 @@ weight = 7
 
 I have served on the program committee or student editorial board of the following journals, conferences and workshops:
 
+- [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/): ACM Conference on Computer and Communications Security
 - [JSys 2021](https://jsys.org): Journal of Systems Research
 - [ACM CCS 2021 Posters & Demos](https://www.sigsac.org/ccs/CCS2021/call-for-posters.html)
 - [CryBlock 2020, 2019](http://www.cryblock.org/): Workshop on Cryptocurrencies and Blockchains for Distributed Systems
