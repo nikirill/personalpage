@@ -1,6 +1,6 @@
 +++
 title = "Authenticated private information retrieval"
-date = 2023-01-01T00:00:00
+date = 2023-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -10,7 +10,7 @@ authors = ["Simone Colombo", "**Kirill Nikitin**", "Bryan Ford", "David Wu", "He
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*USENIX Security Symposium*, 2023 (to appear)"
+publication = "*USENIX Security Symposium*, August 2023"
 publication_short = ""
 
 # Abstract and optional shortened version.

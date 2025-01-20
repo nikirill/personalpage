@@ -23,7 +23,7 @@ weight = 1
   title = "Education"
 
 [[education.courses]]
-  course = "Ph.D. in Computer Science"
+  course = "Ph.D. in Computer and Communication Sciences"
   institution = "École polytechnique fédérale de Lausanne (EPFL)"
   year = "2015-2021"
 
@@ -37,19 +37,22 @@ weight = 1
   institution = "Kazan (Volga Region) Federal University, Kazan"
   year = "2008-2013"
   
-[[education.courses]]
-  course = "Exchange Student, Computer Science"
-  institution = "University of Helsinki, Helsinki"
-  year = "2012"
+#[[education.courses]]
+#  course = "Exchange Student, Computer Science"
+#  institution = "University of Helsinki, Helsinki"
+#  year = "2012"
  
 +++
 
 # About
 
-Hi, I am a postdoctoral researcher at Cornell Tech working with Prof. [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/). 
-Previously, I completed my PhD in Computer Science at [EPFL](http://www.epfl.ch/index.en.html) where I was advised by
-Prof. [Bryan Ford](http://bford.info/) and was a member of [IC3, The Initiative For CryptoCurrencies & Contracts](https://www.initc3.org/).
-My research interests revolve around topics in Privacy, Anonymity, Computer and Network Security, and Smart Contracts.
-I am currently focused on reducing metadata leakage from protocols for secure communication and encrypted-data formats.
-My other work include building robust systems for private information retrieval, improving security of 
+Hi, I am a postdoctoral researcher at Columbia University and the New York Genome Center working with 
+Prof.&nbsp;[Gamze G&uuml;rsoy](https://www.nygenome.org/people/gamze-gursoy-phd/) on building solutions for 
+privacy-preserving sharing and analysis of genomics data.
+Previously, I completed my PhD in Computer and Communication Sciences at [EPFL](http://www.epfl.ch/index.en.html), 
+where I was advised by Prof.&nbsp;[Bryan Ford](http://bford.info/), 
+and worked as a postdoc with Prof.&nbsp;[Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/) at Cornell Tech.
+My research interests revolve around topics in Privacy, Anonymity, Computer Security, and Genomics.
+My past projects include work on reducing metadata leakage in network communication and encrypted data,
+building robust systems for private information retrieval, improving the security of 
 software-update systems, and scaling and securing smart contracts.

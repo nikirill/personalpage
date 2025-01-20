@@ -20,10 +20,20 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
 title = "Postdoctoral Associate"
+company = "G<sup>2</sup> lab, **Columbia University & The New York Genome Center**"
+company_url = "https://g2lab.org/"
+date_start = "2023-05-01"
+date_end = ""
+location = "New York, US"
+description = """Privacy-preserving sharing and analysis of genomics data.
+Advisor: [Gamze G&uuml;rsoy](https://www.nygenome.org/people/gamze-gursoy-phd/)."""
+
+[[experience]]
+title = "Postdoctoral Associate"
 company = "Cornell Tech, **Cornell University**"
 company_url = "https://www.tech.cornell.edu/"
 date_start = "2022-03-01"
-date_end = ""
+date_end = "2023-04-30"
 location = "New York, US"
 description = """Metadata-hiding communication.
 Advisor: [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/)."""

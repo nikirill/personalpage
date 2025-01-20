@@ -1,6 +1,6 @@
 baseurl = "https://nikirill.com/"
 title = "Kirill Nikitin's Personal Page"
-copyright = "&copy; 2022 Kirill Nikitin"
+copyright = "&copy; 2023 Kirill Nikitin"
 
 theme = "academic"
 enableEmoji = true
@@ -13,7 +13,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-86939483-1"
+#googleAnalytics = "UA-86939483-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -36,12 +36,15 @@ defaultContentLanguageInSubdir = false
   role = "Postdoctoral researcher"
   # Organizations/Affiliations.
   # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Cornell University", url = "" } ]
+  organizations = [ { name = "Columbia University & New York Genome Center", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"
-  email = "kirill@cornell.edu"
-  address = "Cornell Tech, 2 West Loop Road, New York, NY 10044, United States"
+  email = "kirill.nikitin@columbia.edu"
+  address = """New York Genome Center,<br>
+  101 Avenue of the Americas,<br>
+  New York, NY 10013,<br>
+  United States"""
   #phone = "888 888 88 88"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -181,7 +184,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:kirill@cornell.edu"
+    link = "mailto:knikitin@nygenome.org"
 
   [[params.social]]
     icon = "twitter"
@@ -196,7 +199,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.ch/citations?user=uDzGL3sAAAAJ"
+    link = "https://scholar.google.com/citations?user=uDzGL3sAAAAJ"
 
   [[params.social]]
     icon = "github"
