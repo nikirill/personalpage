@@ -27,7 +27,6 @@
 
       {{ $.Scratch.Add "show_post" "1" }}
       {{ range $post := first $page.Params.count $posts }}
-
         {{ $.Scratch.Set "show_post" "1" }}
 
         {{/* If `tags_include` is set, exclude posts with no tags. */}}

@@ -35,6 +35,7 @@ url_video = "https://youtu.be/xpT6L8htINU"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "CyberScoop Coverage", url = "https://cyberscoop.com/chainiac-software-backdoor-mandates-nsa-gchq/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

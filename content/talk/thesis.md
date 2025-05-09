@@ -14,11 +14,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ["Cornell Tech, Security seminar", "UC Berkeley, Security seminar", "Yale University"]
+event = ["Cornell Tech", "UC Berkeley", "Yale University"]
 event_url = []
 
 # Location of event.
-location = ["Online", "Online", "Online"]
+location = []
 
 # Is this a selected talk? (true/false)
 selected = false

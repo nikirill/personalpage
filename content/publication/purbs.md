@@ -47,8 +47,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Press Coverage", url = "https://www.zdnet.com/article/plugging-leaks-in-pgp-encryption/"}, 
-{name = "Real-World Use", url = "https://docs.sequoia-pgp.org/sequoia_openpgp/serialize/stream/padding/fn.padme.html"}]
+url_custom = [{name = "ZDNET Coverage", url = "https://www.zdnet.com/article/plugging-leaks-in-pgp-encryption/"}, 
+{name = "In iMessage", url = "https://security.apple.com/blog/imessage-pq3/"},
+{name = "In FB Messenger", url = "https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf"},
+{name = "In Sequoia-PGP", url = "https://docs.sequoia-pgp.org/sequoia_openpgp/serialize/stream/padding/fn.padme.html"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

@@ -35,7 +35,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
+#   `content/project/deep-learning/eb1.md`.
 #   Otherwise, set `projects = []`.
 projects = [""]
 

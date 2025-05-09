@@ -10,10 +10,9 @@
   <!--</div>-->
   <div class="talk-metadata">
     {{ range $event_index, $event := $.Params.event }}
-      {{ print "- " }}
+      {{ print "– " }}
+<!--      {{ $event | markdownify }}, {{ index $.Params.location $event_index | markdownify }}-->
       {{ $event | markdownify }}
-      {{ print ","}}
-      {{ index $.Params.location $event_index | markdownify }}
       <br/>
     {{ end }}
   </div>

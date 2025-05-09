@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 4
+weight = 3
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
 title = "Postdoctoral Associate"
-company = "G<sup>2</sup> lab, **Columbia University & The New York Genome Center**"
+company = "G<sup>2</sup> lab, **Columbia University & New York Genome Center**"
 company_url = "https://g2lab.org/"
 date_start = "2023-05-01"
 date_end = ""

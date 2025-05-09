@@ -14,11 +14,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ["26th Usenix Security Symposium (Usenix Security'17)", "FOSAD 2017: 17th Summer School on Foundations of Security Analysis and Design"]
+event = ["Usenix Security Symposium 2017", "FOSAD 2017: Summer School on Foundations of Security Analysis and Design"]
 event_url = ["https://www.usenix.org/conference/usenixsecurity17", "http://www.sti.uniurb.it/events/fosad17/"]
 
 # Location of event.
-location = ["Vancouver, Canada", "Bertinoro, Italy"]
+location = []
 
 # Is this a selected talk? (true/false)
 selected = false

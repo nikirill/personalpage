@@ -15,19 +15,20 @@ weight = 7
 
 I have served on the program committee or the editorial board of the following conferences, journals and workshops:
 
-- [USESEC 2025](https://www.usenix.org/conference/usenixsecurity25): USENIX Security Symposium
-- [ACM CCS 2023, 2024](https://www.sigsac.org/ccs/CCS2024/): ACM Conference on Computer and Communications Security
-- [RECOMB-PRIEQ 2024](https://recombprivacy2024.bilkent.edu.tr/): Satellite Conference on Biomedical Data Privacy and Equity
-- [JSys 2021](https://jsys.org): Journal of Systems Research
-- [ACM CCS 2021 Posters & Demos](https://www.sigsac.org/ccs/CCS2021/call-for-posters.html)
-- [CryBlock 2020, 2019](http://www.cryblock.org/): Workshop on Cryptocurrencies and Blockchains for Distributed Systems
-- [BlockSys 2019](https://sensysblockchain.github.io/): Workshop on Blockchain-enabled Networked Sensor Systems
-- [ICBC 2019](http://icbc2019.ieee-icbc.org/): IEEE International Conference on Blockchain and Cryptocurrency
+- USENIX Security Symposium 2025, 2026
+- ACM Conference on Computer and Communications Security (CCS) 2023, 2024
+- Satellite Conference on Biomedical Data Privacy and Equity (RECOMB-PRIEQ) 2024
+- Journal of Systems Research (JSys) 2021
+- ACM CCS 2021 Posters & Demos
+- Workshop on Cryptocurrencies and Blockchains for Distributed Systems (CryBlock) 2019, 2020
+- Workshop on Blockchain-enabled Networked Sensor Systems (BlockSys) 2019
+- IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2019
 
 I also have been an external reviewer and a sub-reviewer for:
 
-- [RECOMB 2024, 2025](https://recomb.org/recomb2025/): International Conference on Research in Computational Molecular Biology
-- [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)
-- [IEEE Transactions on Parallel and Distributed Systems 2020](https://www.computer.org/csdl/journal/td)
-- [IEEE Transactions on Industrial Informatics 2019](http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)
-- [CCS'17](https://ccs2017.sigsac.org/), [CCS'21](https://ccs2021.sigsac.org/): ACM Conference on Computer and Communications Security
+- International Conference on Research in Computational Molecular Biology (RECOMB) 2024, 2025
+- Conference on Intelligent Systems for Molecular Biology (ISMB) 2025
+- Eurocrypt 2022
+- IEEE Transactions on Parallel and Distributed Systems 2020
+- IEEE Transactions on Industrial Informatics 2019
+- ACM Conference on Computer and Communications Security (CCS) 2017, 2021

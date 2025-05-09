@@ -14,11 +14,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ["UCL InfoSec Seminar", "University of Cambridge, Computer Laboratory Security Seminar", "Privacy Enhancing Technologies Symposium 2019", "University of Washington's Security and Privacy Reading Group", "DeltaX Workshop"]
+event = ["UCL InfoSec Seminar", "Computer Laboratory Security Seminar, University of Cambridge", "Privacy Enhancing Technologies Symposium 2019", "University of Washington's Security and Privacy Reading Group", "DeltaX Workshop"]
 event_url = []
 
 # Location of event.
-location = ["London, UK", "Cambridge, UK", "Stockholm, Sweden", "Seattle, US", "Freiburg im Breisgau, Germany"]
+location = []
 
 # Is this a selected talk? (true/false)
 selected = false

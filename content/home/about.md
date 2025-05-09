@@ -28,13 +28,13 @@ weight = 1
   year = "2015-2021"
 
 [[education.courses]]
-  course = "Master of Science in Communication Systems"
-  institution = "KTH Royal Institute of Technology, Stockholm"
+  course = "Master of Science in Communication Technology"
+  institution = "KTH Royal Institute of Technology"
   year = "2013-2015"
 
 [[education.courses]]
   course = "Diploma in Information Security"
-  institution = "Kazan (Volga Region) Federal University, Kazan"
+  institution = "Kazan (Volga Region) Federal University"
   year = "2008-2013"
   
 #[[education.courses]]
