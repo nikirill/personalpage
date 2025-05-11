@@ -46,7 +46,11 @@ defaultContentLanguageInSubdir = false
   New York, NY 10013,<br>
   United States"""
   #phone = "888 888 88 88"
-
+  # Post list format.
+  #   0 = Simple
+  #   1 = Detailed
+  #   2 = Stream
+  list_format = 0
   # Enable Keybase in Contact section by entering your keybase.io username.
 #  keybase = "nikirill"
 
@@ -169,7 +173,8 @@ defaultContentLanguageInSubdir = false
     #   2 = Stream
     post_format = 0
 
-  # Social/Academic Networking
+
+# Social/Academic Networking
   #
   # Icon pack "fab" includes the following social network icons:
   #
@@ -248,10 +253,10 @@ defaultContentLanguageInSubdir = false
   url = "#talks"
   weight = 4
 
-# [[menu.main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 5
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 5
 
 [[menu.main]]
   name = "Service"

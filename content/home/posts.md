@@ -2,17 +2,16 @@
 # Recent Posts widget.
 # Note: this widget will only display if `content/post/` contains posts.
 date = 2025-04-20T00:00:00
-active = false
+active = true
 
 title = "Posts"
 subtitle = ""
 widget = "posts"
 
+list_format = 1
+
 # Order that this section will appear in.
 weight = 5
-
-# Debug message.
-debug = "This widget is being rendered."
 
 # Show posts that contain the following tags. Default to any tags.
 tags_include = []

@@ -76,9 +76,11 @@
       {{ if ne $show_post "0" }}
         {{ $params := dict "post" . }}
         {{ if eq $page.Params.list_format 0 }}
-          {{ partial "post_li_simple" $params }}
+<!--          {{ partial "post_li_simple" $params }}-->
+          {{ partial "post_li_simple" $post }}
         {{ else }}
-          {{ partial "post_li_detailed" $params }}
+<!--          {{ partial "post_li_detailed" $params }}-->
+          {{ partial "post_li_detailed" $post }}
         {{ end }}
       {{end}}
 

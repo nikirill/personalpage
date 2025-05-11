@@ -7,7 +7,7 @@ lastmod = 2025-05-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kirill Nikitin"]
+authors = []
 
 #tags = ["green card", "EB-1A", "I-140", "I-485"]
 tags = []
