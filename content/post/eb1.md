@@ -33,7 +33,7 @@ I knew several people who were petitioning for a green card with the help of var
 
 ### Why EB-1A
 
-I was initially looking into EB2-NIW as my profile was not outstanding: around 300 citations and 5 publications (two as the first author), although all the publications were in great venues in my field. 
+I was initially looking into EB2-NIW as my profile was not outstanding---around 300 citations and 5 publications, two as the first author, although all the publications were in great venues in my field. But the backlog meant that, even if I was approved, I would be able to get the green card only in several years. 
 
 but I quickly realized that the wait time for the priority date to become current was quite long (several years) and I would not be able to travel outside the U.S. during that time. So I decided to switch to EB-1A which has a much shorter wait time (currently, it is current for all countries). The downside of EB-1A is that it is a more demanding category and requires a stronger profile. But I thought that I had a reasonable chance of getting approved.
 
