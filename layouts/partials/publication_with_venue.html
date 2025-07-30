@@ -1,4 +1,9 @@
 <div class="pub-list-item" style="margin-bottom: 0.5rem" itemscope itemtype="http://schema.org/CreativeWork">
+  {{ if .Params.note }}
+  <div style="color: orange; font-size: 0.85rem; margin-bottom: 1px;">
+    {{ .Params.note | safeHTML }}
+  </div>
+  {{ end }}
   <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <a href="{{ .Permalink }}" itemprop="name">{{ .Title }}</a>
   <div class="pub-authors" itemprop="author">

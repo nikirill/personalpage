@@ -14,7 +14,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ["UCL InfoSec Seminar", "Computer Laboratory Security Seminar, University of Cambridge", "Privacy Enhancing Technologies Symposium 2019", "University of Washington's Security and Privacy Reading Group", "DeltaX Workshop"]
+event = ["UCL InfoSec Seminar, Oct 2019", "Computer Laboratory Security Seminar, University of Cambridge, Sept 2019", "Privacy Enhancing Technologies Symposium, Jul 2019", "University of Washington's Security and Privacy Reading Group, Sept 2018", "DeltaX Workshop, Jul 2018"]
 event_url = []
 
 # Location of event.
@@ -28,7 +28,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["purbs.md"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -36,7 +36,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "../files/purbs-pets19-slides.pdf"
+# url_slides = "../files/purbs-pets19-slides.pdf"
 url_video = ""
 url_code = ""
 

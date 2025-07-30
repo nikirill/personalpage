@@ -14,7 +14,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ["Cornell Tech", "UC Berkeley", "Yale University"]
+event = ["Cornell Tech, Apr 2021", "Yale University, Apr 2021", "UC Berkeley, May 2021"]
 event_url = []
 
 # Location of event.

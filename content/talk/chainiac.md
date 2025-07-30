@@ -14,7 +14,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ["Usenix Security Symposium 2017", "FOSAD 2017: Summer School on Foundations of Security Analysis and Design"]
+event = ["Usenix Security Symposium, Aug 2017", "FOSAD: Summer School on Foundations of Security Analysis and Design, Aug 2017"]
 event_url = ["https://www.usenix.org/conference/usenixsecurity17", "http://www.sti.uniurb.it/events/fosad17/"]
 
 # Location of event.
@@ -28,7 +28,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["chainiac.md"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -36,8 +36,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "../files/chainiac-usenix-slides.pdf"
-url_video = "https://youtu.be/xpT6L8htINU"
+# url_slides = "../files/chainiac-usenix-slides.pdf"
+# url_video = "https://youtu.be/xpT6L8htINU"
 url_code = ""
 
 # Does the content use math formatting?

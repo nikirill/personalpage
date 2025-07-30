@@ -3,7 +3,7 @@ title = "Reducing metadata leakage from encrypted files and communication with P
 date = 2019-07-03
 draft = false
 
-authors = ["**Kirill Nikitin**, Ludovic Barman, Wouter Lueks, Matthew Underwood, Jean-Pierre Hubaux and Bryan Ford"]
+authors = ["Kirill Nikitin, Ludovic Barman, Wouter Lueks, Matthew Underwood, Jean-Pierre Hubaux and Bryan Ford"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.

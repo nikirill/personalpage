@@ -16,7 +16,7 @@ publication_short = ""
 publication = """*ACM Transactions on Embedded Computing Systems, 16(3), 66*, April 2017"""
 url_project = "project/tinygroupdtls/"
 authors = [
-  "Marco Tiloca", "**Kirill Nikitin**", "Shahid Raza"
+  "Marco Tiloca", "Kirill Nikitin", "Shahid Raza"
 ]
 # url_pdf = "https://dl.acm.org/authorize?N37129"
 url_pdf = "../files/axiom.pdf"

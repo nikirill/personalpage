@@ -4,7 +4,7 @@ date = 2023-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Simone Colombo", "**Kirill Nikitin**", "Bryan Ford", "David Wu", "Henry Corrigan-Gibbs"]
+authors = ["Simone Colombo", "Kirill Nikitin", "Bryan Ford", "David Wu", "Henry Corrigan-Gibbs"]
 
 # Publication type.
 publication_types = ["1"]

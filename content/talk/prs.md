@@ -13,7 +13,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ["Applied Cryptography Laboratory seminar, Yale University"]
+event = ["Applied Cryptography Laboratory seminar, Yale University, Feb 2025"]
 event_url = []
 
 # Location of event.

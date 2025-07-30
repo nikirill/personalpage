@@ -180,6 +180,14 @@ ul.ul-contact li {
   margin-left: -3px;
 }
 
+/* .author-card .portrait {
+  width: 60px;
+  height: 70px !important;
+  margin: 0 auto;
+  border-radius: 50%;
+  /*object-fit: cover;*/
+} */
+
 /*************************************************
  *  Publications
  **************************************************/
@@ -206,6 +214,7 @@ ul.ul-contact li {
 .talk-metadata {
   color: #4b4f56;
   font-size: 0.9rem;
+  /* margin-bottom: 0.5rem; */
 }
 
 .pub-list-item .name {
