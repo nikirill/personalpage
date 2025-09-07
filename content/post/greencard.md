@@ -1,9 +1,9 @@
 +++
-title = "My DYI EB-1A green card petition"
+title = "My approved EB-1A green-card DYI petition"
 subtitle = ""
 
-date = 2025-07-01T00:00:00
-lastmod = 2025-07-01T00:00:00
+date = 2025-09-07T00:00:00
+lastmod = 2025-09-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -12,7 +12,7 @@ authors = []
 #tags = ["green card", "EB-1A", "I-140", "I-485"]
 tags = []
 
-summary = "My complete approved EB-1A I-140 and I-485 petition and the corresponding LaTeX templates."
+summary = "My complete EB-1A I-140 and I-485 petition and the corresponding LaTeX templates"
 
 +++
 
@@ -23,11 +23,11 @@ summary = "My complete approved EB-1A I-140 and I-485 petition and the correspon
 ## Background
 
 I have recently received my U.S. green card after petitioning under the EB-1A category as an alien of extraordinary ability in sciences. The petitioning process was definitely convoluted, and I had to spend quite a bit of time navigating it. But I was able to prepare, file and get my petition approved without hiring a lawyer.
-Probably, the most helpful thing in the process was to read other researchers' petition examples, which are only a handful online. So I have decided to post my complete petition with the hope that it can be helpful to anyone who would like to prepare their petition by themselves.
+Probably, the most helpful thing in the process was to read other researchers' petition examples, which were only a handful online. So I have decided to post my complete petition with the hope that it can be helpful to anyone who would like to prepare their petition by themselves.
 
-I am originally from Russia where I completed my undergraduate studies. After doing MS and PhD in Europe, I moved to New York on a J1 visa to start my postdoc. Being from Russia, I had been subject to administrative processing every time I had applied for a U.S. visa so, after my initial stamp expired, I could not travel outside the country anymore (administrative processing typically took several months and my postdoc position did not have the flexibility of working for months from abroad) so I needed the green card even to be able to travel to conferences abroad.
+I am originally from Russia where I completed my undergraduate studies. After doing MS and PhD in Europe, I moved to New York on the J1 visa to start my postdoc. Being from Russia, I had been subject to administrative processing every time I had applied for a U.S. visa so, after my initial stamp expired, I could not travel outside the country anymore (administrative processing typically took several months and my postdoc position did not have the flexibility of working for months from abroad) so I needed the green card even to be able to travel abroad to conferences or to see family.
 
-I knew several people who petitioned for a green card with the help of various law firms. I did a profile evaluation with a couple popular firms but I did not find them particularly convincing (but I did find them pricey!). At the same time, a friend of mine, also a postdoc but in a different field, prepared and got approved for EB2-NIW without lawyers so I knew that it was feasible. So I decided to try the DYI route with the idea that I always could go back to lawyers if the task would turn out too hard. That was when I started studying any resources available online. The two examples online that helped me the most were the petitions and templates of Razvan Marinescu (2021) and of Andrey Solovyev (2012). My petition structure was primarily based on the example of Razvan Marinescu. I also found the Oscar's Green Card Youtube channel useful, especially the interviews with other petitioners.
+I knew several people who petitioned for a green card with the help of various law firms. I did a profile evaluation with a couple popular firms but I did not find them particularly convincing (but I did find them pricey). At the same time, a friend of mine, also a postdoc but in a different field, prepared and got approved for EB2-NIW without lawyers so I knew that it was feasible. So I decided to try the DYI route with the idea that I always could go back to lawyers if the task would turn out too hard. That was when I started studying any resources available online. The two examples online that helped me the most were the petitions and templates of Razvan Marinescu (2021) and Andrey Solovyev (2012). My petition structure was primarily based on the example of Razvan Marinescu. I also found the Oscar's Green Card Youtube channel useful, especially the interviews with other petitioners.
 
 - [Razvan Marinescu's petition and template](https://razvanmarinescu.github.io/green-card-I-140/)
 - [Andrey Solovyev's petition examples and template](https://andreychemist.github.io/)
@@ -37,7 +37,7 @@ I knew several people who petitioned for a green card with the help of various l
 
 I was initially looking into EB2-NIW, as my profile was not outstanding---I had around 300 citations and five publications, two out of which as the first author, although all the publications were in great venues in my field. But the backlog meant that, even if I was approved, I would be able to get the green card only in several years. Then, in the beginning of 2024, I learned that Apple had implemented a tiny piece of my research in their new iMessage protocol. So I figured that I could try to present it as a substantial contribution (_slightly_ exaggerating the impact) and apply for EB-1A. I also had fairly extensive reviewing experience so I could claim that too.
 
-The petition preparation took me about nine months of occasional evening and weekend work. It could definitely be done much but I wanted to make sure that I prepared the best petition I could, so I spent quite a bit of time reading, collecting evidence and rewriting parts.
+The petition preparation took me about nine months of occasional evening and weekend work. It could definitely be done faster but I wanted to make sure that I prepared the best petition I could, so I spent quite a bit of time reading, collecting evidence and rewriting parts of the text.
 
 #### Timeline
 
@@ -55,8 +55,8 @@ The petition preparation took me about nine months of occasional evening and wee
 - April 24, 2025: I-485 petition is received by USCIS
 - May 2, 2025: Request for biometrics letter appeared in the online account
 - May 21, 2025: Biometrics appointment, the status changed to "Case being actively reviewed" (the interview was waived)
-- ..., 2025: Green card approved
-- ..., 2025: Green card received
+- August 26, 2025: Case approved
+- September 6, 2025: Green card received
 
 My personal opinion is that if you have either a surefire case _or_ a complicated situation, then getting assistance from an attorney can be useful and might significantly cut down your preparation time. But if you are a scientist with a reasonable but not outstanding profile (basically, like mine), you might have a better chance of getting approved by preparing the petition yourself, as you can write a personalized petition, instead of inserting your information into a lawyer's template. In either case, you will need to do most of evidence gathering yourself, so knowing what to search for helps.
 
@@ -73,7 +73,7 @@ The evidence for the authorship of scholarly articles was the ranking of the ven
 
 ### Support letters
 
-In my opinion, the letters of support are the most crucial part of a strong petition. I got eight letters to be on the safe side but I would say that one needs at least four. Anecdotally, the recent USCIS adjudication guidelines instruct to favor letters by recommenders who either have collaborated with the petitioner or know their work reasonably well. The letters need substance in them, and the recommenders should be experts in their respective fields. Law firms sometimes suggest submitting without support letters but, frankly, this is simply to save their effort and time and hope for the best.
+In my opinion, the letters of support are the most crucial part of a strong petition. I got eight letters to be on the safe side but I would say that one needs at least four. Anecdotally, the recent USCIS adjudication guidelines instruct to favor letters by recommenders who either have collaborated with the petitioner or know their work reasonably well. The letters need substance in them, and the recommenders should be experts in their respective fields. Law firms sometimes suggest submitting without support letters but, frankly, this is simply to save their effort and time, and hope for the best.
 
 Out of my eight recommenders, two were my former research advisors, four were university professors who knew me and my work a little bit---because we either had met at a conference, I had given a talk at their seminar at some point, or I had previously interviewed to work with them---and two were applied scientists from a tech company that deployed a small piece of my research in its product.
 Two recommenders offered to write their letters (I have excluded them from the posted petition above), and I drafted the remaining six that the recommenders later edited to their preference. I used the same standard structure for all the letters:
@@ -86,11 +86,11 @@ Two recommenders offered to write their letters (I have excluded them from the p
 
 
 #### Degree evaluation
-I am not sure if it was as important for EB-1 as for EB2-NIW but I got my foreign degrees evaluated by one of the approved services. The purpose was to have a proof of equivalency, e.g., that my Doctor of Sciences degree from Switzerland corresponded to PhD in the US. I used [Foreign Credentials Service of America (FCSA)](https://foreigncredentials.org/) because I found them to be the cheapest---I paid $85 for the equivalency report for my three degrees. I think that it took them two weeks to produce the report and the first version had some spelling errors but they got them fixed right away.
+I am not sure if it was as important for EB-1 as for EB2-NIW but I got my foreign degrees evaluated by one of the approved services. The purpose was to have a proof of equivalency, e.g., that my Doctor of Sciences degree from Switzerland corresponded to the PhD in the US. I used [Foreign Credentials Service of America (FCSA)](https://foreigncredentials.org/) because I found them to be the cheapest---I paid $85 for the equivalency report for my three degrees. It took them about two weeks to produce the report and the first version had some spelling errors but they got them fixed right away.
 
 
 #### Payment
-You need to use separate credit-card authorization forms or checks for each fee. So, in my case, it was $715 filing fee + $300 asylum program fee for filing as a self-petitioner + $2,805 premium processing fee. Reddit insists on paying by checks, but if you have a credit card from a US bank, you should arguably be fine paying with it. I used an Amex card for I-140 and later a Capital One card for I-485 and both worked without an issue.
+You need to use separate credit-card authorization forms or checks for each fee. So, in my case, it was $715 filing fee + $300 asylum program fee for filing as a self-petitioner + $2,805 premium processing fee. Reddit insists on paying by checks, but if you have a credit card from a US bank, you should arguably be fine paying with it. I used an [Amex card](https://americanexpress.com/en-us/referral/gold-card?ref=KIRILNubqs&xl=cp10o6) for I-140 and later a [Capital One card](https://i.capitalone.com/JhwyDkax4) for I-485 and both worked without an issue.
 
 
 
@@ -98,4 +98,4 @@ You need to use separate credit-card authorization forms or checks for each fee.
 
 Filing the I-485 form is pretty straightforward. The extra work you would need to do is translating your birth certificate if it is not in English and doing the medical exam / searching for your vaccination records. I used [Itrex Language Services](https://itrex.ru/) and paid an equivalent of $10 for a certified translation of my USSR-issued birth certificate.
 
-For the medical exam, I ended up going to Family Medicine NYC (Dr. Eva Galstian) and paid $200 in cash for the exam itself. The tests got covered by my health insurance as I combined the visit with my annual physical. I do not think I would recommend them because they ordered antibody tests for the vaccines that I had records for but told me to re-vaccinate for the vaccines that I had antibody tests done elsewhere. If you are in the NYC area, I have also read about Vitastat Medical (Dr. Ken Truong) in Astoria and Dr. Xiaorong Yan in Flushing who charge $150 and $100, respectively.
+For the medical exam, I ended up going to Family Medicine NYC (Dr. Eva Galstian) and paid $200 in cash for the exam itself. The tests got covered by my health insurance as I combined the visit with my annual physical. I do not think I would recommend them because they ordered antibody tests for the vaccines that I had records for but told me to re-vaccinate for the vaccines that I had antibody tests done elsewhere. But, in the end, it was cheap and their report got accepted by USCIS. If you are in the NYC area, I have also read about Vitastat Medical (Dr. Ken Truong) in Astoria and Dr. Xiaorong Yan in Flushing who charge $150 and $100, respectively.

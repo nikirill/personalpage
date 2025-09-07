@@ -1,8 +1,8 @@
 +++
 # Recent Posts widget.
 # Note: this widget will only display if `content/post/` contains posts.
-date = 2025-04-20T00:00:00
-active = false
+date = 2025-07-01T00:00:00
+active = true
 
 title = "Posts"
 subtitle = ""
