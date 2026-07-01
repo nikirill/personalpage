@@ -199,17 +199,17 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fa"
+    icon_pack = "fas"
     link = "mailto:kirill.nikitin@columbia.edu"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
+    icon = "x-twitter"
+    icon_pack = "fab"
     link = "https://twitter.com/ni_kirill"
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/nikirill/"
 
   [[params.social]]
@@ -219,7 +219,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://github.com/nikirill"
 
   # Link to a PDF of your resume/CV from the About widget.

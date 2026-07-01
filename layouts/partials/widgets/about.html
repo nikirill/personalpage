@@ -41,10 +41,14 @@
 
       <ul class="network-icon" aria-hidden="true">
         {{ range $.Site.Params.social }}
-        {{ $pack := or .icon_pack "fa" }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+        {{ end }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
-            <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
           </a>
         </li>
         {{ end }}
@@ -75,7 +79,7 @@
 
           {{ with $.Site.Params.email }}
           <li>
-            <i class="fa-li fa fa-envelope fa" aria-hidden="true"></i>
+            <i class="fa-li fas fa-envelope" aria-hidden="true"></i>
             <span>
             {{ . }}
               <!--{{- if $autolink }}<a href="mailto:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}-->
@@ -85,7 +89,7 @@
 
           {{ with $.Site.Params.keybase }}
           <li>
-            <i class="fa-li fa fa-lock fa" aria-hidden="true"></i>
+            <i class="fa-li fas fa-lock" aria-hidden="true"></i>
             <span>
               <a href="https://keybase.io/{{ . }}" target="_blank">@{{ . }}</a> on Keybase
             </span>
@@ -94,7 +98,7 @@
 
           {{ with $.Site.Params.phone }}
           <li>
-            <i class="fa-li fa fa-phone fa" aria-hidden="true"></i>
+            <i class="fa-li fas fa-phone" aria-hidden="true"></i>
             <span>
             {{- if $autolink }}<a href="tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
             </span>
@@ -103,7 +107,7 @@
 
           {{ with $.Site.Params.address }}
           <li>
-            <i class="fa-li fa fa-building fa" aria-hidden="true"></i>
+            <i class="fa-li fas fa-building" aria-hidden="true"></i>
             <span>{{ . | safeHTML }}</span>
           </li>
           {{ end }}
@@ -116,7 +120,7 @@
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
+            <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
