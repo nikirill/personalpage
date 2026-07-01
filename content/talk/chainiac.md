@@ -1,7 +1,7 @@
 +++
 date = 2017-08-18  # Schedule page publish date.
 
-title = "CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds"
+title = "CHAINIAC: Proactive software-update transparency via collectively signed skipchains and verified builds"
 draft = false
 
 # Talk start and end times.

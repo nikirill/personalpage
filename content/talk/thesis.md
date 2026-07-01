@@ -1,7 +1,7 @@
 +++
 date = 2021-04-06  # Schedule page publish date.
 
-title = "Integrity and Metadata Protection in Data Retrieval"
+title = "Integrity and metadata protection in data retrieval"
 draft = false
 
 # Talk start and end times.

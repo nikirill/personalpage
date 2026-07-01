@@ -1,7 +1,7 @@
 +++
 date = 2018-07-21  # Schedule page publish date.
 
-title = "Reducing Metadata Leakage from Encrypted Files and Communication with PURBs"
+title = "Reducing metadata leakage from encrypted files and communication with PURBs"
 draft = false
 
 # Talk start and end times.

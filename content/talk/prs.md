@@ -1,7 +1,7 @@
 +++
 date = 2025-05-04  # Schedule page publish date.
 
-title = "Private Information Leakage from Polygenic Risk Scores"
+title = "Private information leakage from polygenic risk scores"
 draft = false
 
 # Talk start and end times.
