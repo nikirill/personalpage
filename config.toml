@@ -1,6 +1,6 @@
 baseurl = "https://nikirill.com/"
 title = "Kirill Nikitin's Personal Page"
-copyright = "&copy; 2025 Kirill Nikitin"
+copyright = "&copy; 2026 Kirill Nikitin"
 
 theme = "academic"
 enableEmoji = true
@@ -33,17 +33,22 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Kirill Nikitin"
-  role = "Postdoctoral researcher"
+  role = "Associate Research Scientist"
   # Organizations/Affiliations.
   # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Columbia University & New York Genome Center", url = "" } ]
+  organizations = [ { name = "Columbia University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"
   email = "kirill.nikitin@columbia.edu"
-  address = """New York Genome Center,<br>
-  101 Avenue of the Americas,<br>
-  New York, NY 10013,<br>
+  # address = """New York Genome Center,<br>
+  # 101 Avenue of the Americas,<br>
+  # New York, NY 10013,<br>
+  # United States"""
+  address = """Department of Biomedical Informatics<br>
+  Columbia University Medical Center<br>
+  622 W. 168th Street<br>
+  New York, NY 10032<br>
   United States"""
   #phone = "888 888 88 88"
   # Post list format.
@@ -195,7 +200,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:knikitin@nygenome.org"
+    link = "mailto:kirill.nikitin@columbia.edu"
 
   [[params.social]]
     icon = "twitter"

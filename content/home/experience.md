@@ -19,14 +19,24 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+title = "Associate Research Scientist"
+company = "Department of Biomedical Informatics, **Columbia University**"
+company_url = "https://www.dbmi.columbia.edu/"
+date_start = "2026-07-01"
+date_end = ""
+location = "New York, US"
+description = """
+Advisors: [No&eacute;mie Elhadad](https://people.dbmi.columbia.edu/noemie/) and [Gamze G&uuml;rsoy](https://www.gen.cam.ac.uk/people/gamze-gursoy)."""
+
+[[experience]]
 title = "Postdoctoral Associate"
 company = "G<sup>2</sup> lab, **Columbia University & New York Genome Center**"
 company_url = "https://g2lab.org/"
 date_start = "2023-05-01"
-date_end = ""
+date_end = "2026-06-30"
 location = "New York, US"
-description = """Privacy-preserving sharing and analysis of genomics data.
-Advisor: [Gamze G&uuml;rsoy](https://www.nygenome.org/people/gamze-gursoy-phd/)."""
+description = """Privacy of genomic and biomedical data.
+Advisor: [Gamze G&uuml;rsoy](https://www.gen.cam.ac.uk/people/gamze-gursoy)."""
 
 [[experience]]
 title = "Postdoctoral Associate"

@@ -46,9 +46,9 @@ weight = 1
 
 # About
 
-Hi, I am a postdoctoral researcher at Columbia University and the New York Genome Center working with 
-Prof.&nbsp;[Gamze G&uuml;rsoy](https://www.nygenome.org/people/gamze-gursoy-phd/) on building solutions for 
-privacy-preserving sharing and analysis of genomic data.
+Hi, I am an associate research scientist at Columbia University's Medical Center working with 
+Prof.&nbsp;[No&eacute;mie Elhadad](https://people.dbmi.columbia.edu/noemie/) and 
+Prof.&nbsp;[Gamze G&uuml;rsoy](https://www.gen.cam.ac.uk/people/gamze-gursoy) on biomedical privacy.
 Previously, I completed my PhD in Computer and Communication Sciences at [EPFL](http://www.epfl.ch/index.en.html), 
 where I was advised by Prof.&nbsp;[Bryan Ford](http://bford.info/), 
 and worked as a postdoc with Prof.&nbsp;[Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/) at Cornell Tech.

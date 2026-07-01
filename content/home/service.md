@@ -16,6 +16,7 @@ weight = 7
 I have served on the program committee or the editorial board of the following conferences, journals and workshops:
 
 - USENIX Security Symposium 2025, 2026
+- Conference on Intelligent Systems for Molecular Biology (ISMB) 2026
 - ACM Conference on Computer and Communications Security (CCS) 2023, 2024
 - Satellite Conference on Biomedical Data Privacy and Equity (RECOMB-PRIEQ) 2024
 - Journal of Systems Research (JSys) 2021
@@ -26,7 +27,7 @@ I have served on the program committee or the editorial board of the following c
 
 I also have been an external reviewer and a sub-reviewer for:
 
-- International Conference on Research in Computational Molecular Biology (RECOMB) 2024, 2025
+- International Conference on Research in Computational Molecular Biology (RECOMB) 2024, 2025, 2026
 - Conference on Intelligent Systems for Molecular Biology (ISMB) 2025
 - Eurocrypt 2022
 - IEEE Transactions on Parallel and Distributed Systems 2020
