@@ -92,7 +92,6 @@ I am not sure if it was as important for EB-1 as for EB2-NIW but I got my foreig
 #### Payment
 You need to use separate credit-card authorization forms or checks for each fee. So, in my case, it was $715 filing fee + $300 asylum program fee for filing as a self-petitioner + $2,805 premium processing fee. Reddit insists on paying by checks, but if you have a credit card from a US bank, you should arguably be fine paying with it. I used an [Amex card](https://americanexpress.com/en-us/referral/american-express-green-card?ref=KIRILNEIFa&xl=cp10o6) for I-140 and later a [Capital One card](https://i.capitalone.com/JZatgQwMs) for I-485 and both worked without an issue.
 
-Here’s my Amex referral link. Use it and we could both earn rewards if you are approved and get a Card. Check out offers and Card benefits. 
 
 ## I-485
 
